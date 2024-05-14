@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gotrip/static/css/main.0c689374.css",
+    "main.js": "/gotrip/static/js/main.86200edd.js",
+    "static/js/453.2569b3c2.chunk.js": "/gotrip/static/js/453.2569b3c2.chunk.js",
+    "index.html": "/gotrip/index.html",
+    "main.0c689374.css.map": "/gotrip/static/css/main.0c689374.css.map",
+    "main.86200edd.js.map": "/gotrip/static/js/main.86200edd.js.map",
+    "453.2569b3c2.chunk.js.map": "/gotrip/static/js/453.2569b3c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c689374.css",
+    "static/js/main.86200edd.js"
+  ]
+}
